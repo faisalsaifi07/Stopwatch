@@ -1,0 +1,45 @@
+body{
+    /*margin: 0%;*/
+    margin-top: 10%;
+    padding: 0%;
+    background : linear-gradient(to right, #9cecfb, #65c7f7, #0052d4) ;
+}
+
+#container{
+    margin : 100px auto;
+    text-align: center;
+}
+
+#time{
+    /*font-size: 15rem;*/
+    color: blue;
+}
+
+h1{
+    font-size: 4rem;
+    font-family: sans-serif ;
+    color: #fff;
+}
+
+button{
+    font-size: 1.2em;
+    width: 150px;
+    border: none;
+    margin: 10px;
+    border: none;
+    padding: 15px 10px;
+}
+
+p{
+    font-size: 30px;
+    color: #fff;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: #65c7f7 ;
+    color: #fff;
+    transition: 0.4s ;
+
+
+}
